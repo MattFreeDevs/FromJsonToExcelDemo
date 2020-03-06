@@ -1,0 +1,21 @@
+[{
+    "Name" : "Matias",
+    "SecondName" : "Lozano",
+    "Age": 29,
+    "Gender": "Male",
+    "Hobbies" : ["Books", "Music", "Cycling"]
+},
+{
+    "Name" : "Pedro",
+    "SecondName" : "García",
+    "Age": 27,
+    "Gender": "Male",
+    "Hobbies" : ["Football", "Painting"]
+},
+{
+    "Name" : "Laura",
+    "SecondName" : "Sempere",
+    "Age": 19,
+    "Gender": "Female",
+    "Hobbies" : ["Boxing", "Music"]
+}]
